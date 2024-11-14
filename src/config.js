@@ -4,4 +4,8 @@ module.exports = {
     databaseURL: 'http://localhost:27017', // URL của cơ sở dữ liệu từ feature-backend
     allowAssignment: true // Tính năng gán công việc từ feature-assign
 };
+<<<<<<< HEAD
 =======
+=======
+dnfg agn
+>>>>>>> feature-UI
